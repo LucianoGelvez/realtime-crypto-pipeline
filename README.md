@@ -16,7 +16,7 @@ graph LR
 
 ## 📊 Final Dashboard Preview
 
-![Dashboard Preview](dashboard\CryptoDashboard.png)
+![Dashboard Preview](dashboard/CryptoDashboard.png)
 > *Live Grafana dashboard monitoring 4 cryptocurrencies in real-time with sliding window anomaly detection.*
 
 ## 🛠️ Technologies Used
